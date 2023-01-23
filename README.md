@@ -1,0 +1,2 @@
+# basenova
+Base projeto
